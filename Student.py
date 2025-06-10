@@ -36,5 +36,6 @@ print(a)
 name = a.view_Detail("name")
 
 
-name = a.update_Details("nam","ABC")
+n = a.update_Details("name","ABC")
+print(n)
 
