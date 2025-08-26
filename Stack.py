@@ -46,3 +46,5 @@ print("remove this element",s.pop1())
 s.pop1()
 s.pop1()
 s.pop1()
+
+print(s.isEmpty())
