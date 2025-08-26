@@ -50,11 +50,3 @@ s.pop1()
 print(s.top())
 print(s.length())
 
-<<<<<<< HEAD
-
-
-
-
-
-=======
->>>>>>> 404696461eb4e09cf6aff8a72f8f9a3f0067584f
