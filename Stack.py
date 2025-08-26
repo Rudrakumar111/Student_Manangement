@@ -50,3 +50,4 @@ s.pop1()
 print(s.top())
 print(s.length())
 
+print(s.isEmpty())
